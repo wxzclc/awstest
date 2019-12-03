@@ -37,9 +37,11 @@ function escape1($str)
 <title>test page for database access</title>
 </head>
 <body >
-Last Access Time<br><br>
+Last Access Time(editbranch)<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
+<hr width=400 size=3 color="#ff0000">
+Add comment by oh_g
 </body>
 </html>
