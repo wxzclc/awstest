@@ -41,7 +41,7 @@ Last Access Time(editbranch)<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
-<hr width=400 size=3 color="#ff0000">
+<hr size=2 color="#ff0000">
 Add comment by oh_g
 </body>
 </html>
