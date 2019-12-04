@@ -42,6 +42,6 @@ Last Access Time(editbranch)<br><br>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
 <hr size=2 color="#ff0000">
-Add comment by oh_g
+Add comment by oh_g <span style="color:blue">version 2</span>
 </body>
 </html>
